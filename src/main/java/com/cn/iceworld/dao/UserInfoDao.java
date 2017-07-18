@@ -1,4 +1,4 @@
-package com.cn.iceworld.Dao;
+package com.cn.iceworld.dao;
 
 import com.cn.iceworld.bean.UserInfo;
 

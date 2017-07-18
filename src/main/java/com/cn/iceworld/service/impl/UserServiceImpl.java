@@ -4,8 +4,8 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.cn.iceworld.Dao.UserInfoDao;
 import com.cn.iceworld.bean.UserInfo;
+import com.cn.iceworld.dao.UserInfoDao;
 import com.cn.iceworld.service.UserService;
 
 @Service
